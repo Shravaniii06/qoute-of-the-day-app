@@ -1,7 +1,5 @@
 Quote of the Day App
 
-Live Demo: https://shravaniii06.github.io/qoute-of-the-day-app/
-
 An interactive, modern Quote of the Day web application built using HTML, CSS, and JavaScript.
 Designed with a Neon + Glassmorphism UI, it allows users to view daily quotes, add their own, save favorites, and share inspiring messages with others.
 
